@@ -2,10 +2,12 @@
 title: "Marian Website"
 ---
 
-This is a Quarto website.
+**J.R.R.Tolkien**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+"It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to."
+
+![photo](my.fb.photo.jpg)
 
 ```{r}
-1 + 1
+
 ```
