@@ -5,10 +5,14 @@ project:
 website:
   title: "Marian Melnyk"
   navbar:
+    background: secondary
+    foreground: info
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - talks.qmd
 
 format:
   html:
